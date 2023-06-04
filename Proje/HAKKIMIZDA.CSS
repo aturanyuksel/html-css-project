@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(0, 111, 119);
+}
+P{
+
+    font-size: larger;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.çerçeve{
+    margin-left: 28%;
+    background-color: green;
+     border: 2px dashed rgb(235, 243, 251);
+      overflow: auto;
+       padding: 5px; 
+        width: 569.633px;
+}
+.buttonsekme {
+
+    background-color:green;
+    color:white;
+    width:25%;
+    height: 50px;
+    float: left;
+    
+    
+  }
+
+  
+
+

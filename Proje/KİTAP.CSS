@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(48, 47, 47);
+    color: white;
+}
+.solakaydir{
+    margin-left: auto;
+    text-align: left;
+    float: left;
+    margin-top: 20px;
+
+}
+h1{
+    font-size: 50px;
+}
+
+.button {
+
+    display: inline-block;
+  
+    padding: 15px 25px;
+  
+    font-size: 24px;
+  
+    cursor: pointer;
+  
+    text-align: center;
+  
+    text-decoration: none;
+  
+    outline: none;
+  
+    color: #fff;
+  
+    background-color:#f4511e;
+  
+    border: none;
+  
+    border-radius: 15px;
+  
+    box-shadow: 0 9px #423a3a;
+
+  }
+  .left{
+    float: left;
+    margin-left:8%;
+    margin-right: 60%;
+
+  }
+  
+  .buttonsekme {
+
+    background-color:#3e8e41;
+    color:white;
+    width:25%;
+    height: 50px;
+    float: left;
+    
+    
+  }
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+  
+    background-color: #3e8e41;
+  
+    box-shadow: 0 5px #413f3f;
+  
+    transform: translateY(4px);
+  }
+  .ornek{
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: large;
+
+  }
+  img {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    margin-right: 20px;
+    margin-bottom: 60px;
+  }
+  
+  /* Add a hover effect (blue shadow) */
+  img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  .link{
+    color:#3e8e41;
+  }
+  .bosluk{
+    margin-bottom: 20px;
+  }

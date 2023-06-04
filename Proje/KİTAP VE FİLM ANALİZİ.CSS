@@ -1,0 +1,44 @@
+.KİTAP{
+    background-image: url("GÖRSELLER/kitapanamenü.jpg");
+}
+.FİLM{
+    background-image: url(GÖRSELLER/filmanamenusu2.jpg);
+
+}
+P{
+    text-align: center;
+}
+
+.ortala{
+    text-align: center;
+}
+.btn-oval {
+    
+    display: inline-block;
+    width: 840px;
+    height: 70px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    background: linear-gradient(#89c13e, #599c02);
+    background-color: #6fad1d;
+    border-radius: 35px;
+    border: 5px solid aqua;
+    font: bold 30px/70px Arial;
+    position: relative;
+    text-shadow: 0 1px aqua;
+    outline:aqua;
+  }
+  textarea{
+    background-color: aqua;
+    color: black;
+  }
+  .sola-kaydır{
+    float: left;
+    padding:0 10px 10px 0;
+
+  }
+  .ornek{
+     margin: auto;
+  }
