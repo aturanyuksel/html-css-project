@@ -1,0 +1,20 @@
+nav{
+    background-color:yellow;
+    text-align: center;
+}
+.card{
+width: 300px;
+}
+.ortala{
+    background-color: crimson;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+}
+.text{
+    text-align: center;
+}
+.pictures{
+    height: auto;
+    width:auto ;
+}
